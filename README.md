@@ -94,7 +94,7 @@ disp('标注结果图片已保存至工作目录');
 <img width="1280" height="1280" alt="image_1782793772652" src="https://github.com/user-attachments/assets/5e7071e9-d041-4722-8338-1a881c2842cd" />
 
 ### 3.3 report/ 报告目录
-
+机器视觉大作业报告.docx
 
 ### 3.4 result_output/ 输出目录
 <img width="808" height="598" alt="image_1782793776598" src="https://github.com/user-attachments/assets/59a4916d-1765-4f57-bfe9-3330b29805fc" />
